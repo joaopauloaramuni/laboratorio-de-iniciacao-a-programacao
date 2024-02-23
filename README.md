@@ -1,2 +1,2 @@
-# laboratorio-de-introducao-a-programacao
-Laboratorio de Introdução à Programação
+# laboratorio-de-iniciacao-a-programacao
+Laboratorio de Iniciação à Programação
