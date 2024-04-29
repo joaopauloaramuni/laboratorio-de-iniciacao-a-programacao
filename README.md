@@ -1,14 +1,16 @@
-
 # laboratorio-de-iniciacao-a-programacao
 Laboratorio de Iniciação à Programação
 
-Pacman
+LINK TIKERCAD - TERÇA-FEIRA:
+https://www.tinkercad.com/joinclass/JWLN7XVLG
+
+Pacman:
 https://scratch.mit.edu/projects/13701368/editor/
 
-Mariokart
+Mariokart:
 https://scratch.mit.edu/projects/46578586/editor/
 
-Exemplo de um relatório:
+Exemplo de um relatório para o trabalho de Scratch:
 
 Relatório do Projeto: "Floppy Fish Adventures"
 
