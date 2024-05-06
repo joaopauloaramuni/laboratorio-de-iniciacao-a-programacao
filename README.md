@@ -1,7 +1,7 @@
 # laboratorio-de-iniciacao-a-programacao
 Laboratorio de Iniciação à Programação
 
-LINK TIKERCAD - TERÇA-FEIRA:
+LINK TIKERCAD:
 https://www.tinkercad.com/joinclass/JWLN7XVLG
 
 Pacman:
