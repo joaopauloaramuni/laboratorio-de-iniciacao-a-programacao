@@ -1,6 +1,8 @@
 # laboratorio-de-iniciacao-a-programacao
 Laboratorio de Iniciação à Programação
 
+LINK DO SEGUNDO PROJETO NO TINKERCAD:
+
 LINK DO PRIMEIRO PROJETO NO TINKERCAD:
 https://www.tinkercad.com/things/8eiV2qBfo7p-primeiroprj?sharecode=RDpDAr_wetgqmD450qSU3mOcuxu7ifrfz_gJ4tp3uXc
 
