@@ -1,7 +1,10 @@
 # laboratorio-de-iniciacao-a-programacao
 Laboratorio de Iniciação à Programação
 
-LINK TIKERCAD:
+LINK DO PRIMEIRO PROJETO NO TINKERCAD:
+https://www.tinkercad.com/things/8eiV2qBfo7p-primeiroprj
+
+LINK DA TURMA NO TIKERCAD:
 https://www.tinkercad.com/joinclass/JWLN7XVLG
 
 Pacman:
