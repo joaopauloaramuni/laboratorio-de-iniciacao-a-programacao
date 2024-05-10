@@ -2,7 +2,7 @@
 Laboratorio de Iniciação à Programação
 
 LINK DO PRIMEIRO PROJETO NO TINKERCAD:
-https://www.tinkercad.com/things/8eiV2qBfo7p-primeiroprj
+https://www.tinkercad.com/things/8eiV2qBfo7p-primeiroprj?sharecode=RDpDAr_wetgqmD450qSU3mOcuxu7ifrfz_gJ4tp3uXc
 
 LINK DA TURMA NO TIKERCAD:
 https://www.tinkercad.com/joinclass/JWLN7XVLG
