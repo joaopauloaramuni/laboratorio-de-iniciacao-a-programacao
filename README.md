@@ -1,6 +1,8 @@
 # laboratorio-de-iniciacao-a-programacao
 Laboratorio de Iniciação à Programação
 
+TINKERCAD:
+
 EXEMPLO PIEZO:
 https://www.tinkercad.com/things/aM5CrCyPsk3-musica-do-re-mi-fa-no-buzzer?sharecode=b1cv6yhNJ4K3S4Nizf7RTXKxM89S2m4DKHRL6VDUUjM
 
@@ -13,10 +15,12 @@ https://www.tinkercad.com/things/8eiV2qBfo7p-primeiroprj?sharecode=RDpDAr_wetgqm
 LINK DA TURMA NO TIKERCAD:
 https://www.tinkercad.com/joinclass/JWLN7XVLG
 
-Pacman:
+SCRATCH:
+
+EXEMPLO PACMAN:
 https://scratch.mit.edu/projects/13701368/editor/
 
-Mariokart:
+EXEMPLO MARIOKART:
 https://scratch.mit.edu/projects/46578586/editor/
 
 Exemplo de um relatório para o trabalho de Scratch:
