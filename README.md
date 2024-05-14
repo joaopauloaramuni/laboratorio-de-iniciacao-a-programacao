@@ -1,6 +1,9 @@
 # laboratorio-de-iniciacao-a-programacao
 Laboratorio de Iniciação à Programação
 
+EXEMPLO PIEZO:
+https://www.tinkercad.com/things/0paGjEdotq0-musica-do-re-mi-fa-no-buzzer/editel?tenant=circuits
+
 LINK DO SEGUNDO PROJETO NO TINKERCAD:
 https://www.tinkercad.com/things/caJB5BoGqT5-segundoprj?sharecode=QOZkeGFn7rutd8pNzPoW4TDYIsgxIswnG3CQIYtr9-Q
 
