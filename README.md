@@ -6,6 +6,9 @@ TINKERCAD:
 EXEMPLO PIEZO:
 https://www.tinkercad.com/things/aM5CrCyPsk3-musica-do-re-mi-fa-no-buzzer?sharecode=b1cv6yhNJ4K3S4Nizf7RTXKxM89S2m4DKHRL6VDUUjM
 
+EXEMPLO ARDUINO SONGS:
+https://github.com/robsoncouto/arduino-songs
+
 LINK DO SEGUNDO PROJETO NO TINKERCAD:
 https://www.tinkercad.com/things/caJB5BoGqT5-segundoprj?sharecode=QOZkeGFn7rutd8pNzPoW4TDYIsgxIswnG3CQIYtr9-Q
 
