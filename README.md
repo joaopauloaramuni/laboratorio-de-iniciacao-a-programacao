@@ -17,6 +17,15 @@ https://www.tinkercad.com/joinclass/JWLN7XVLG
 
 SCRATCH:
 
+EXEMPLO JOGO ESPACIAL 1:
+https://scratch.mit.edu/projects/976796355/editor/
+
+EXEMPLO JOGO ESPACIAL 2:
+https://scratch.mit.edu/projects/979046219/editor/
+
+EXEMPLO LABIRINTO:
+https://scratch.mit.edu/projects/1005948595/editor/
+
 EXEMPLO PACMAN:
 https://scratch.mit.edu/projects/13701368/editor/
 
