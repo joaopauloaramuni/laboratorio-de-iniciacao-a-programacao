@@ -9,6 +9,19 @@ https://www.tinkercad.com/things/aM5CrCyPsk3-musica-do-re-mi-fa-no-buzzer?sharec
 EXEMPLO ARDUINO SONGS:
 https://github.com/robsoncouto/arduino-songs
 
+FUNÇÃO randomseed():
+https://www.arduino.cc/reference/pt/language/functions/random-numbers/randomseed/
+
+FUNÇÃO analogRead():
+https://www.arduino.cc/reference/pt/language/functions/analog-io/analogread/
+
+// Para sortear um número de 1 a 4:
+// Escolher um valor aleatorio para a sequencia
+sequencia[n] = random(1,5);
+
+//Para gerar semente aleatoria
+randomSeed(analogRead(0));
+
 LINK DO SEGUNDO PROJETO NO TINKERCAD:
 https://www.tinkercad.com/things/caJB5BoGqT5-segundoprj?sharecode=QOZkeGFn7rutd8pNzPoW4TDYIsgxIswnG3CQIYtr9-Q
 
