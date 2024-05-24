@@ -16,10 +16,10 @@ FUNÇÃO analogRead():
 https://www.arduino.cc/reference/pt/language/functions/analog-io/analogread/
 
 // Para sortear um número de 1 a 4:<br>
-// Escolher um valor aleatorio para a sequencia
-sequencia[n] = random(1,5);
+// Escolher um valor aleatorio para a sequencia<br>
+sequencia[n] = random(1,5);<br>
 
-//Para gerar semente aleatoria
+//Para gerar semente aleatoria<br>
 randomSeed(analogRead(0));
 
 LINK DO SEGUNDO PROJETO NO TINKERCAD:
