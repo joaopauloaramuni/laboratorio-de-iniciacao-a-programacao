@@ -15,7 +15,7 @@ https://www.arduino.cc/reference/pt/language/functions/random-numbers/randomseed
 FUNÇÃO analogRead():
 https://www.arduino.cc/reference/pt/language/functions/analog-io/analogread/
 
-// Para sortear um número de 1 a 4:
+// Para sortear um número de 1 a 4:<br>
 // Escolher um valor aleatorio para a sequencia
 sequencia[n] = random(1,5);
 
