@@ -11,6 +11,9 @@ https://github.com/robsoncouto/arduino-songs
 
 Dicas para o trabalho do GENIUS:<br>
 
+FUNÇÃO Serial.println():
+https://www.arduino.cc/reference/pt/language/functions/communication/serial/println/
+
 FUNÇÃO tone():
 https://www.arduino.cc/reference/pt/language/functions/advanced-io/tone/
 
