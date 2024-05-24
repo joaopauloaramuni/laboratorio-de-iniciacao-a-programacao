@@ -9,6 +9,8 @@ https://www.tinkercad.com/things/aM5CrCyPsk3-musica-do-re-mi-fa-no-buzzer?sharec
 EXEMPLO ARDUINO SONGS:
 https://github.com/robsoncouto/arduino-songs
 
+Dicas para o trabalho do GENIUS:<br>
+
 FUNÇÃO randomseed():
 https://www.arduino.cc/reference/pt/language/functions/random-numbers/randomseed/
 
