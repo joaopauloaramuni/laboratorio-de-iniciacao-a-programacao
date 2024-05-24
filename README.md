@@ -19,7 +19,7 @@ https://www.arduino.cc/reference/pt/language/functions/analog-io/analogread/
 // Escolher um valor aleatorio para a sequencia<br>
 sequencia[n] = random(1,5);<br>
 
-//Para gerar semente aleatoria<br>
+// Para gerar a semente aleatoria:<br>
 randomSeed(analogRead(0));
 
 LINK DO SEGUNDO PROJETO NO TINKERCAD:
