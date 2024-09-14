@@ -1,7 +1,7 @@
 # laboratorio-de-iniciacao-a-programacao
 Laboratorio de Iniciação à Programação
 
-TINKERCAD:
+**TINKERCAD:**
 
 EXEMPLO PIEZO:
 https://www.tinkercad.com/things/aM5CrCyPsk3-musica-do-re-mi-fa-no-buzzer?sharecode=b1cv6yhNJ4K3S4Nizf7RTXKxM89S2m4DKHRL6VDUUjM
@@ -9,7 +9,7 @@ https://www.tinkercad.com/things/aM5CrCyPsk3-musica-do-re-mi-fa-no-buzzer?sharec
 EXEMPLO ARDUINO SONGS:
 https://github.com/robsoncouto/arduino-songs
 
-Dicas para o trabalho do GENIUS:<br>
+**Dicas para o trabalho do GENIUS:**<br>
 
 FUNÇÃO Serial.println():
 https://www.arduino.cc/reference/pt/language/functions/communication/serial/println/
@@ -39,7 +39,7 @@ https://www.tinkercad.com/things/8eiV2qBfo7p-primeiroprj?sharecode=RDpDAr_wetgqm
 LINK DA TURMA NO TIKERCAD:
 https://www.tinkercad.com/joinclass/JWLN7XVLG
 
-SCRATCH:
+**SCRATCH:**
 
 EXEMPLO JOGO ESPACIAL 1:
 https://scratch.mit.edu/projects/976796355/editor/
@@ -56,7 +56,7 @@ https://scratch.mit.edu/projects/13701368/editor/
 EXEMPLO MARIOKART:
 https://scratch.mit.edu/projects/46578586/editor/
 
-Exemplo de um relatório para o trabalho de Scratch:
+**Exemplo de um relatório para o trabalho de Scratch:**
 
 Relatório do Projeto: "Floppy Fish Adventures"
 
