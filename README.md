@@ -53,6 +53,8 @@ https://scratch.mit.edu/projects/1005948595/editor/
 EXEMPLO PACMAN:
 https://scratch.mit.edu/projects/13701368/editor/
 
+https://tinyurl.com/pac-man-recursos
+
 EXEMPLO MARIOKART:
 https://scratch.mit.edu/projects/46578586/editor/
 
