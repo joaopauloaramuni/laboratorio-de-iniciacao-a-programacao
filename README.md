@@ -1,6 +1,10 @@
 # laboratorio-de-iniciacao-a-programacao
 Laboratorio de Iniciação à Programação
 
+Disciplina do curso de Ciência da Computação da PUC Minas 
+
+- 1°Sem 2024
+
 **TINKERCAD:** 
 
 EXEMPLO PIEZO:
