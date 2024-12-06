@@ -1,5 +1,10 @@
-# laboratorio-de-iniciacao-a-programacao
-Laboratorio de Iniciação à Programação
+-----
+
+<img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/FUNDOCOREUCAPA.jpg?raw=true"/>
+
+-----
+
+Repo Laboratorio de Iniciação à Programação
 
 Disciplina do curso de Ciência da Computação da PUC Minas 
 
@@ -90,3 +95,5 @@ O jogo começa com o peixe posicionado no centro do rio. Os jogadores clicam ou 
 
 5. Conclusão:
 …
+
+-----
