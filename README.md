@@ -97,3 +97,9 @@ O jogo começa com o peixe posicionado no centro do rio. Os jogadores clicam ou 
 …
 
 -----
+
+<div align="center">
+  <img width="70%" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
+</div>
+
+-----
