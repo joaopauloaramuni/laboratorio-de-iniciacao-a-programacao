@@ -19,12 +19,12 @@ Disciplina do curso de Ciência da Computação da PUC Minas
 
 #### Links úteis:
 
-**TINKERCAD:** 
+##### TINKERCAD
 
 - [Exemplo Piezo - Música Do Re Mi Fa no Buzzer](https://www.tinkercad.com/things/aM5CrCyPsk3-musica-do-re-mi-fa-no-buzzer?sharecode=b1cv6yhNJ4K3S4Nizf7RTXKxM89S2m4DKHRL6VDUUjM)
 - [Exemplo Arduino Songs - Repositório no GitHub](https://github.com/robsoncouto/arduino-songs)
 
-**Dicas para o trabalho do GENIUS:**
+##### Dicas para o trabalho do GENIUS:
 
 - [FUNÇÃO Serial.println()](https://www.arduino.cc/reference/pt/language/functions/communication/serial/println/)
 - [FUNÇÃO tone()](https://www.arduino.cc/reference/pt/language/functions/advanced-io/tone/)
@@ -44,25 +44,14 @@ randomSeed(analogRead(0));
 
 -----
 
-**SCRATCH:**
+##### SCRATCH
 
-EXEMPLO JOGO ESPACIAL 1:
-https://scratch.mit.edu/projects/976796355/editor/
-
-EXEMPLO JOGO ESPACIAL 2:
-https://scratch.mit.edu/projects/979046219/editor/
-
-EXEMPLO LABIRINTO:
-https://scratch.mit.edu/projects/1005948595/editor/
-
-EXEMPLO PACMAN:
-https://scratch.mit.edu/projects/13701368/editor/
-
-RECURSOS PACMAN:
-https://tinyurl.com/pac-man-recursos
-
-EXEMPLO MARIOKART:
-https://scratch.mit.edu/projects/46578586/editor/
+- [EXEMPLO JOGO ESPACIAL 1](https://scratch.mit.edu/projects/976796355/editor/)
+- [EXEMPLO JOGO ESPACIAL 2](https://scratch.mit.edu/projects/979046219/editor/)
+- [EXEMPLO LABIRINTO](https://scratch.mit.edu/projects/1005948595/editor/)
+- [EXEMPLO PACMAN](https://scratch.mit.edu/projects/13701368/editor/)
+- [RECURSOS PACMAN](https://tinyurl.com/pac-man-recursos)
+- [EXEMPLO MARIOKART](https://scratch.mit.edu/projects/46578586/editor/)
 
 -----
 
