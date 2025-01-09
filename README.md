@@ -17,6 +17,8 @@ Disciplina do curso de Ciência da Computação da PUC Minas
 
 #### Links úteis:
 
+-----
+
 **TINKERCAD:** 
 
 EXEMPLO PIEZO:
