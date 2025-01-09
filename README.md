@@ -31,16 +31,14 @@ Disciplina do curso de Ciência da Computação da PUC Minas
 - [FUNÇÃO randomseed()](https://www.arduino.cc/reference/pt/language/functions/random-numbers/randomseed/)
 - [FUNÇÃO analogRead()](https://www.arduino.cc/reference/pt/language/functions/analog-io/analogread/)
 
-// Para sortear um número de 1 a 4 (verde, azul, vermelho ou amarelo):<br>
-// Escolher um valor aleatorio para a sequencia<br>
-sequencia[n] = random(1,5);<br>
-
-// Para gerar a semente aleatoria:<br>
-randomSeed(analogRead(0));
+##### Projetos
 
 - [LINK DO SEGUNDO PROJETO NO TINKERCAD](https://www.tinkercad.com/things/caJB5BoGqT5-segundoprj?sharecode=QOZkeGFn7rutd8pNzPoW4TDYIsgxIswnG3CQIYtr9-Q)
 - [LINK DO PRIMEIRO PROJETO NO TINKERCAD](https://www.tinkercad.com/things/8eiV2qBfo7p-primeiroprj?sharecode=RDpDAr_wetgqmD450qSU3mOcuxu7ifrfz_gJ4tp3uXc)
-- [LINK DA TURMA NO TIKERCAD](https://www.tinkercad.com/joinclass/JWLN7XVLG)
+
+##### Turma - TINKERCAD
+
+- [LINK DA TURMA NO TINKERCAD](https://www.tinkercad.com/joinclass/JWLN7XVLG)
 
 -----
 
@@ -55,34 +53,84 @@ randomSeed(analogRead(0));
 
 -----
 
+##### Comandos úteis:
+
+```
+// Para sortear um número de 1 a 4 (verde, azul, vermelho ou amarelo):<br>
+// Escolher um valor aleatorio para a sequencia<br>
+sequencia[n] = random(1,5);<br>
+
+// Para gerar a semente aleatoria:<br>
+randomSeed(analogRead(0));
+```
+
+-----
+
 #### Exemplo de um relatório para o trabalho final de Scratch:
 
-Relatório do Projeto: "Floppy Fish Adventures"
+##### Relatório do Projeto: *Floppy Fish Adventures*
 
-Introdução:
-O jogo "Floppy Fish Adventures" foi desenvolvido como parte do projeto final em Scratch para demonstrar minhas habilidades em programação e design de jogos. Este relatório descreve o processo de criação do jogo, os elementos utilizados, a motivação por trás das escolhas feitas e como o jogo funciona.
+###### Introdução:
+O jogo *"Floppy Fish Adventures"* foi desenvolvido como parte do projeto final em Scratch, com o objetivo de demonstrar competências em programação, design de jogos e lógica computacional. Este relatório detalha o processo de desenvolvimento, as ferramentas utilizadas, a motivação por trás do jogo e como ele funciona. O projeto reflete a aplicação prática de conceitos fundamentais em desenvolvimento de jogos e design interativo.
 
-1. Descrição do Jogo:
-"Floppy Fish Adventures" é um jogo de ação em que os jogadores controlam um peixe nadando em um rio repleto de obstáculos. A principal mecânica do jogo envolve desviar de troncos e pedras enquanto tenta nadar o máximo possível.
+-----
 
-2. Elementos Utilizados:
+###### 1. Descrição do Jogo:
+*"Floppy Fish Adventures"* é um jogo de ação e habilidade em que os jogadores controlam um peixe navegando por um rio cheio de obstáculos. A principal mecânica é desviar de troncos e pedras que aparecem de forma contínua, enquanto tenta sobreviver o máximo possível. O jogo oferece uma experiência desafiadora e divertida, com pontuações baseadas na distância percorrida.
 
-Movimentos: Usei os blocos de movimento para controlar a movimentação do peixe para cima e para baixo.
-Aparências: Criei diferentes sprites para representar o peixe, troncos, pedras e o cenário do rio.
-Sons: Adicionei sons de água e sons de colisão para tornar o jogo mais imersivo.
-Eventos: Utilizei eventos para detectar colisões entre o peixe e os obstáculos.
-Controle: Os controles do jogo são simples, os jogadores clicam ou pressionam uma tecla para fazer o peixe nadar para cima.
-Variáveis: Utilizei variáveis para controlar a pontuação do jogador e o estado do jogo (ativo ou game over).
-Operadores: Utilizei operadores para calcular a pontuação com base na distância percorrida pelo peixe.
+-----
 
-3. Motivação:
-Minha principal motivação para criar "Floppy Fish Adventures" foi desenvolver um jogo divertido e desafiador… 
+###### 2. Elementos Utilizados:
 
-4. Funcionamento do Jogo:
-O jogo começa com o peixe posicionado no centro do rio. Os jogadores clicam ou pressionam uma tecla para fazer o peixe nadar para cima, desviando de troncos e pedras que se aproximam. Se o peixe colidir com um obstáculo, o jogo termina e a pontuação final do jogador é exibida. Os jogadores podem então optar por reiniciar o jogo para tentar alcançar uma pontuação mais alta.
+- **Movimentos:**  
+  Usei blocos de movimento para controlar a movimentação do peixe (cima e baixo).
 
-5. Conclusão:
-…
+- **Aparências:**  
+  Criação de sprites personalizados para o peixe, troncos, pedras e o cenário do rio.
+
+- **Sons:**  
+  Adicionados efeitos sonoros de água e colisões para aumentar a imersão.
+
+- **Eventos:**  
+  Utilização de eventos para detectar colisões entre o peixe e os obstáculos.
+
+- **Controle:**  
+  Controles simples; o jogador clica ou pressiona uma tecla para fazer o peixe nadar para cima.
+
+- **Variáveis:**  
+  Implementação de variáveis para gerenciar a pontuação e o estado do jogo (ativo ou game over).
+
+- **Operadores:**  
+  Operadores usados para calcular a pontuação com base na distância percorrida pelo peixe.
+
+-----
+
+###### 3. Motivação:
+
+Minha principal motivação para criar *"Floppy Fish Adventures"* foi desenvolver um jogo que fosse:  
+- Divertido e desafiador.  
+- Capaz de demonstrar minhas habilidades em programação e design.  
+- Um exercício criativo para explorar mecânicas simples mas envolventes.  
+
+O desafio esteve em equilibrar a dificuldade para manter o jogador engajado.
+
+-----
+
+###### 4. Funcionamento do Jogo:
+
+1. O jogo inicia com o peixe posicionado no centro do rio.  
+2. O jogador clica ou pressiona uma tecla para fazer o peixe nadar para cima.  
+3. Obstáculos como troncos e pedras se aproximam continuamente.  
+4. Se o peixe colidir com um obstáculo, o jogo termina, e a pontuação final é exibida.  
+5. Após o término, o jogador pode optar por reiniciar o jogo para tentar alcançar uma pontuação maior.
+
+-----
+
+###### 5. Conclusão:
+
+*"Floppy Fish Adventures"* foi um projeto desafiador e gratificante, que me permitiu aplicar e consolidar conceitos de programação, lógica e design de jogos.  
+O processo de desenvolvimento envolveu desde a criação de sprites personalizados até a implementação de mecânicas simples mas eficazes para garantir a jogabilidade.  
+Como aprendizado principal, destaco a importância do equilíbrio na dificuldade do jogo para manter o interesse do jogador. Estou satisfeito com o resultado e considero que o jogo cumpre seu objetivo de oferecer uma experiência divertida e desafiadora.
 
 -----
 
