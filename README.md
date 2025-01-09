@@ -21,25 +21,15 @@ Disciplina do curso de Ciência da Computação da PUC Minas
 
 **TINKERCAD:** 
 
-EXEMPLO PIEZO:
-https://www.tinkercad.com/things/aM5CrCyPsk3-musica-do-re-mi-fa-no-buzzer?sharecode=b1cv6yhNJ4K3S4Nizf7RTXKxM89S2m4DKHRL6VDUUjM
+- [Exemplo Piezo - Música Do Re Mi Fa no Buzzer](https://www.tinkercad.com/things/aM5CrCyPsk3-musica-do-re-mi-fa-no-buzzer?sharecode=b1cv6yhNJ4K3S4Nizf7RTXKxM89S2m4DKHRL6VDUUjM)
+- [Exemplo Arduino Songs - Repositório no GitHub](https://github.com/robsoncouto/arduino-songs)
 
-EXEMPLO ARDUINO SONGS:
-https://github.com/robsoncouto/arduino-songs
+**Dicas para o trabalho do GENIUS:**
 
-**Dicas para o trabalho do GENIUS:**<br>
-
-FUNÇÃO Serial.println():
-https://www.arduino.cc/reference/pt/language/functions/communication/serial/println/
-
-FUNÇÃO tone():
-https://www.arduino.cc/reference/pt/language/functions/advanced-io/tone/
-
-FUNÇÃO randomseed():
-https://www.arduino.cc/reference/pt/language/functions/random-numbers/randomseed/
-
-FUNÇÃO analogRead():
-https://www.arduino.cc/reference/pt/language/functions/analog-io/analogread/
+- [FUNÇÃO Serial.println()](https://www.arduino.cc/reference/pt/language/functions/communication/serial/println/)
+- [FUNÇÃO tone()](https://www.arduino.cc/reference/pt/language/functions/advanced-io/tone/)
+- [FUNÇÃO randomseed()](https://www.arduino.cc/reference/pt/language/functions/random-numbers/randomseed/)
+- [FUNÇÃO analogRead()](https://www.arduino.cc/reference/pt/language/functions/analog-io/analogread/)
 
 // Para sortear um número de 1 a 4 (verde, azul, vermelho ou amarelo):<br>
 // Escolher um valor aleatorio para a sequencia<br>
@@ -48,14 +38,9 @@ sequencia[n] = random(1,5);<br>
 // Para gerar a semente aleatoria:<br>
 randomSeed(analogRead(0));
 
-LINK DO SEGUNDO PROJETO NO TINKERCAD:
-https://www.tinkercad.com/things/caJB5BoGqT5-segundoprj?sharecode=QOZkeGFn7rutd8pNzPoW4TDYIsgxIswnG3CQIYtr9-Q
-
-LINK DO PRIMEIRO PROJETO NO TINKERCAD:
-https://www.tinkercad.com/things/8eiV2qBfo7p-primeiroprj?sharecode=RDpDAr_wetgqmD450qSU3mOcuxu7ifrfz_gJ4tp3uXc
-
-LINK DA TURMA NO TIKERCAD:
-https://www.tinkercad.com/joinclass/JWLN7XVLG
+- [LINK DO SEGUNDO PROJETO NO TINKERCAD](https://www.tinkercad.com/things/caJB5BoGqT5-segundoprj?sharecode=QOZkeGFn7rutd8pNzPoW4TDYIsgxIswnG3CQIYtr9-Q)
+- [LINK DO PRIMEIRO PROJETO NO TINKERCAD](https://www.tinkercad.com/things/8eiV2qBfo7p-primeiroprj?sharecode=RDpDAr_wetgqmD450qSU3mOcuxu7ifrfz_gJ4tp3uXc)
+- [LINK DA TURMA NO TIKERCAD](https://www.tinkercad.com/joinclass/JWLN7XVLG)
 
 -----
 
