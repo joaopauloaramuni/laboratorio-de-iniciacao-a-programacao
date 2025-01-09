@@ -56,11 +56,11 @@ Disciplina do curso de Ciência da Computação da PUC Minas
 ##### Comandos úteis:
 
 ```
-// Para sortear um número de 1 a 4 (verde, azul, vermelho ou amarelo):<br>
-// Escolher um valor aleatorio para a sequencia<br>
-sequencia[n] = random(1,5);<br>
+// Para sortear um número de 1 a 4 (verde, azul, vermelho ou amarelo):
+// Escolher um valor aleatorio para a sequencia
+sequencia[n] = random(1,5);
 
-// Para gerar a semente aleatoria:<br>
+// Para gerar a semente aleatoria:
 randomSeed(analogRead(0));
 ```
 
