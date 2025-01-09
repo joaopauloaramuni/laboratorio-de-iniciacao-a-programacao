@@ -10,14 +10,14 @@ Disciplina do curso de Ciência da Computação da PUC Minas
 
 - 1°Sem 2024
 
+-----
+
 ### Sumário:
 - [Aulas em PDF](https://github.com/joaopauloaramuni/laboratorio-de-iniciacao-a-programacao/tree/main/PDF)
 - [Atividades com SCRATCH](https://github.com/joaopauloaramuni/laboratorio-de-iniciacao-a-programacao/tree/main/SCRATCH)
 - [Atividades com TINKERCAD](https://github.com/joaopauloaramuni/laboratorio-de-iniciacao-a-programacao/tree/main/TINKERCAD)
 
 #### Links úteis:
-
------
 
 **TINKERCAD:** 
 
