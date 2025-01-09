@@ -26,30 +26,30 @@ Disciplina do curso de Ciência da Computação da PUC Minas
 
 ##### Dicas para o trabalho do GENIUS:
 
-- [FUNÇÃO Serial.println()](https://www.arduino.cc/reference/pt/language/functions/communication/serial/println/)
-- [FUNÇÃO tone()](https://www.arduino.cc/reference/pt/language/functions/advanced-io/tone/)
-- [FUNÇÃO randomseed()](https://www.arduino.cc/reference/pt/language/functions/random-numbers/randomseed/)
-- [FUNÇÃO analogRead()](https://www.arduino.cc/reference/pt/language/functions/analog-io/analogread/)
+- [Função Serial.println()](https://www.arduino.cc/reference/pt/language/functions/communication/serial/println/)
+- [Função tone()](https://www.arduino.cc/reference/pt/language/functions/advanced-io/tone/)
+- [Função randomseed()](https://www.arduino.cc/reference/pt/language/functions/random-numbers/randomseed/)
+- [Função analogRead()](https://www.arduino.cc/reference/pt/language/functions/analog-io/analogread/)
 
 ##### Projetos
 
-- [LINK DO SEGUNDO PROJETO NO TINKERCAD](https://www.tinkercad.com/things/caJB5BoGqT5-segundoprj?sharecode=QOZkeGFn7rutd8pNzPoW4TDYIsgxIswnG3CQIYtr9-Q)
-- [LINK DO PRIMEIRO PROJETO NO TINKERCAD](https://www.tinkercad.com/things/8eiV2qBfo7p-primeiroprj?sharecode=RDpDAr_wetgqmD450qSU3mOcuxu7ifrfz_gJ4tp3uXc)
+- [Link do primeiro projeto no TINKERCAD](https://www.tinkercad.com/things/8eiV2qBfo7p-primeiroprj?sharecode=RDpDAr_wetgqmD450qSU3mOcuxu7ifrfz_gJ4tp3uXc)
+- [Link do segundo projeto no TINKERCAD](https://www.tinkercad.com/things/caJB5BoGqT5-segundoprj?sharecode=QOZkeGFn7rutd8pNzPoW4TDYIsgxIswnG3CQIYtr9-Q)
 
 ##### Turma - TINKERCAD
 
-- [LINK DA TURMA NO TINKERCAD](https://www.tinkercad.com/joinclass/JWLN7XVLG)
+- [Link da turma no TINKERCAD](https://www.tinkercad.com/joinclass/JWLN7XVLG)
 
 -----
 
 ##### SCRATCH
 
-- [EXEMPLO JOGO ESPACIAL 1](https://scratch.mit.edu/projects/976796355/editor/)
-- [EXEMPLO JOGO ESPACIAL 2](https://scratch.mit.edu/projects/979046219/editor/)
-- [EXEMPLO LABIRINTO](https://scratch.mit.edu/projects/1005948595/editor/)
-- [EXEMPLO PACMAN](https://scratch.mit.edu/projects/13701368/editor/)
-- [RECURSOS PACMAN](https://tinyurl.com/pac-man-recursos)
-- [EXEMPLO MARIOKART](https://scratch.mit.edu/projects/46578586/editor/)
+- [Exemplo Jogo Espacial 1](https://scratch.mit.edu/projects/976796355/editor/)
+- [Exemplo Jogo Espacial 2](https://scratch.mit.edu/projects/979046219/editor/)
+- [Exemplo Labirinto](https://scratch.mit.edu/projects/1005948595/editor/)
+- [Exemplo PACMAN](https://scratch.mit.edu/projects/13701368/editor/)
+- [Recursos PACMAN](https://tinyurl.com/pac-man-recursos)
+- [Exemplo MARIOKART](https://scratch.mit.edu/projects/46578586/editor/)
 
 -----
 
