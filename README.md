@@ -10,6 +10,13 @@ Disciplina do curso de Ciência da Computação da PUC Minas
 
 - 1°Sem 2024
 
+### Sumário:
+- [Aulas em PDF](https://github.com/joaopauloaramuni/laboratorio-de-iniciacao-a-programacao/tree/main/PDF)
+- [Atividades com SCRATCH](https://github.com/joaopauloaramuni/laboratorio-de-iniciacao-a-programacao/tree/main/SCRATCH)
+- [Atividades com TINKERCAD](https://github.com/joaopauloaramuni/laboratorio-de-iniciacao-a-programacao/tree/main/TINKERCAD)
+
+#### Links úteis:
+
 **TINKERCAD:** 
 
 EXEMPLO PIEZO:
@@ -48,6 +55,8 @@ https://www.tinkercad.com/things/8eiV2qBfo7p-primeiroprj?sharecode=RDpDAr_wetgqm
 LINK DA TURMA NO TIKERCAD:
 https://www.tinkercad.com/joinclass/JWLN7XVLG
 
+-----
+
 **SCRATCH:**
 
 EXEMPLO JOGO ESPACIAL 1:
@@ -68,7 +77,9 @@ https://tinyurl.com/pac-man-recursos
 EXEMPLO MARIOKART:
 https://scratch.mit.edu/projects/46578586/editor/
 
-**Exemplo de um relatório para o trabalho de Scratch:**
+-----
+
+#### Exemplo de um relatório para o trabalho final de Scratch:
 
 Relatório do Projeto: "Floppy Fish Adventures"
 
