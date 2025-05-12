@@ -1,6 +1,6 @@
 -----
 
-<img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/FUNDOCOREUCAPA.jpg?raw=true"/>
+<img alt="pucminas" src="https://joaopauloaramuni.github.io/image/FUNDOCOREUCAPA.jpg?raw=true"/>
 
 -----
 
@@ -135,7 +135,7 @@ Como aprendizado principal, destaco a importância do equilíbrio na dificuldade
 -----
 
 <div align="center">
-  <img width="70%" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
+  <img width="70%" alt="pucminas" src="https://joaopauloaramuni.github.io/image/engsoft.png?raw=true"/>
 </div>
 
 -----
