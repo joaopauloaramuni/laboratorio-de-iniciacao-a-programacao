@@ -24,7 +24,7 @@ Disciplina do curso de Ciência da Computação da PUC Minas
 - [Exemplo Piezo - Música Do Re Mi Fa no Buzzer](https://www.tinkercad.com/things/aM5CrCyPsk3-musica-do-re-mi-fa-no-buzzer?sharecode=b1cv6yhNJ4K3S4Nizf7RTXKxM89S2m4DKHRL6VDUUjM)
 - [Exemplo Arduino Songs - Repositório no GitHub](https://github.com/robsoncouto/arduino-songs)
 
-##### Dicas para o trabalho do GENIUS:
+##### Dicas para o trabalho do GENIUS
 
 - [Função Serial.println()](https://www.arduino.cc/reference/pt/language/functions/communication/serial/println/)
 - [Função tone()](https://www.arduino.cc/reference/pt/language/functions/advanced-io/tone/)
@@ -53,7 +53,7 @@ Disciplina do curso de Ciência da Computação da PUC Minas
 
 -----
 
-##### Comandos úteis:
+#### Comandos úteis:
 
 ```
 // Para sortear um número de 1 a 4 (verde, azul, vermelho ou amarelo):
