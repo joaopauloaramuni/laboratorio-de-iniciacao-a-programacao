@@ -55,13 +55,59 @@ Disciplina do curso de Ciência da Computação da PUC Minas
 
 #### ⌨️ Comandos úteis:
 
-```
-// Para sortear um número de 1 a 4 (verde, azul, vermelho ou amarelo):
-// Escolher um valor aleatorio para a sequencia
-sequencia[n] = random(1,5);
+```cpp
+// Gerar uma semente aleatória com base em ruído analógico
+randomSeed(analogRead(0)); // Garante que os números aleatórios sejam diferentes a cada execução
 
-// Para gerar a semente aleatoria:
-randomSeed(analogRead(0));
+// Sortear um número de 1 a 4 (por exemplo, para representar cores: verde, azul, vermelho, amarelo)
+sequencia[n] = random(1, 5); // Gera um número inteiro aleatório de 1 a 4 (intervalo: [1, 4])
+
+// Definir pinos como entrada ou saída
+pinMode(ledPin, OUTPUT);     // Define o pino como saída (para LEDs, por exemplo)
+pinMode(botaoPin, INPUT);    // Define o pino como entrada (para botões)
+pinMode(sensorPin, INPUT);   // Entrada analógica ou digital de sensor
+
+// Acionar ou desligar um pino digital
+digitalWrite(ledPin, HIGH);  // Liga o LED ou envia sinal alto (5V)
+digitalWrite(ledPin, LOW);   // Desliga o LED ou envia sinal baixo (0V)
+
+// Ler estado de botão ou sensor digital
+int estado = digitalRead(botaoPin); // Lê se o botão está pressionado (HIGH) ou não (LOW)
+
+// Ler valor de sensor analógico
+int valor = analogRead(A0); // Lê valor de 0 a 1023 de um sensor conectado à entrada analógica A0
+
+// Esperar um tempo (em milissegundos)
+delay(1000); // Espera 1 segundo (1000 ms)
+
+// Imprimir mensagens no monitor serial (útil para depuração)
+Serial.begin(9600);             // Inicia comunicação serial a 9600 bauds
+Serial.print("Valor: ");        // Imprime sem pular linha
+Serial.println(valor);          // Imprime com quebra de linha
+
+// Funções auxiliares para tornar o código mais legível
+void acenderLed(int pino) {
+  digitalWrite(pino, HIGH);     // Liga o LED conectado ao pino especificado
+}
+
+void apagarLed(int pino) {
+  digitalWrite(pino, LOW);      // Desliga o LED conectado ao pino especificado
+}
+
+// Extras úteis
+// Inverter estado de um LED (toggle)
+digitalWrite(ledPin, !digitalRead(ledPin)); // Lê o estado atual e escreve o oposto
+
+// Controle PWM (dimerização de LEDs, motores, etc.)
+analogWrite(ledPin, 128); // Escreve valor de 0 a 255 (50% da intensidade máxima)
+
+// Debounce simples para botões
+if (digitalRead(botaoPin) == HIGH) {
+  delay(50); // Espera para evitar falso acionamento
+  if (digitalRead(botaoPin) == HIGH) {
+    // botão foi pressionado de verdade
+  }
+}
 ```
 
 -----
