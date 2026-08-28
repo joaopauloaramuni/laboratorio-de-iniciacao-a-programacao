@@ -16,13 +16,13 @@ Disciplina do curso de Ciência da Computação da PUC Minas
   <tr>
     <td width="800px">
       <div align="justify">
-        Disciplina do curso de Ciência da Computação da PUC Minas
+        Disciplina do curso de Ciência da Computação da PUC Minas  
         1°Sem 2024
       </div>
     </td>
     <td>
       <div>
-        <img src="https://joaopauloaramuni.github.io/image/cc-puc.jpg" alt="Logo" width="200px"/>
+        <img src="https://joaopauloaramuni.github.io/image/cc-puc.jpg" alt="Logo" width="120px"/>
       </div>
     </td>
   </tr> 
