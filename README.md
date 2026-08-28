@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td width="800px">
+    <td width="700px">
       <div align="justify">
         Disciplina do curso de Ciência da Computação da PUC Minas</br>
         1°Sem 2024
