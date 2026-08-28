@@ -22,7 +22,7 @@ Disciplina do curso de Ciência da Computação da PUC Minas
     </td>
     <td>
       <div>
-        <img src="https://joaopauloaramuni.github.io/image/cc-puc.jpg" alt="Logo" width="120px"/>
+        <img src="https://joaopauloaramuni.github.io/image/cc-puc.jpg" alt="Logo" width="200px"/>
       </div>
     </td>
   </tr> 
