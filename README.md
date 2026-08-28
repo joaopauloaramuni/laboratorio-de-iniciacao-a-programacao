@@ -17,8 +17,7 @@ Disciplina do curso de Ciência da Computação da PUC Minas
     <td width="800px">
       <div align="justify">
         Disciplina do curso de Ciência da Computação da PUC Minas
-
-        - 1°Sem 2024
+        1°Sem 2024
       </div>
     </td>
     <td>
